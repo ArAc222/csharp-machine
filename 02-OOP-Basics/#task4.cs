@@ -14,7 +14,7 @@ namespace Excersice
         {
             List<Person> list = new List<Person>();
 
-            list.Add(new Person("Luxyz", "McCoder", 144));
+            list.Add(new Person("Luxyz", "McCoder", 24));
             list.Add(new Student("Pamela", "Anderson", 32, 4.22));
             list.Add(new Professor("Mrs", "Abignale", 58, "History"));
 
